@@ -1,0 +1,27 @@
+{
+  "name": "@koba04/ios-imagefile-megapixel",
+  "version": "1.0.0",
+  "description": "Fixes iOS6 Safari's image file rendering issue for large size image (over mega-pixel), which causes unexpected subsampling when drawing it in canvas.",
+  "main": "src/megapix-image.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koba04/ios-imagefile-megapixel.git"
+  },
+  "keywords": [
+    "ios",
+    "canvas",
+    "image"
+  ],
+  "author": "koba04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koba04/ios-imagefile-megapixel/issues"
+  },
+  "homepage": "https://github.com/koba04/ios-imagefile-megapixel#readme"
+}
